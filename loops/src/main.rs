@@ -52,13 +52,21 @@ fn main (){
 
     // println!("lift off");
 
-    let a = [10,20,30,40,50];
+    // let a = [10,20,30,40,50];
 
-    let mut index = 0;
+    // let mut index = 0;
 
-    while index < 5 {
-        println!("value is: {}", {a[index]});
+    // while index < 5 {
+    //     println!("value is: {}", {a[index]});
 
-        index += 1;
+    //     index += 1;
+    // }
+
+    // for element in a {
+    //     println!("value is: {}", element);
+    // }
+
+    for element in (1..4).rev() {
+        println!("value is: {}", element);
     }
 }
