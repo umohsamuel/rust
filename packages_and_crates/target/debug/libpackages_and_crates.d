@@ -1,0 +1,1 @@
+/home/umohsamuel/Documents/GitHub/rust-gs/packages_and_crates/target/debug/libpackages_and_crates.rlib: /home/umohsamuel/Documents/GitHub/rust-gs/packages_and_crates/src/add_numbers/mod.rs /home/umohsamuel/Documents/GitHub/rust-gs/packages_and_crates/src/add_numbers/num_operation/mod.rs /home/umohsamuel/Documents/GitHub/rust-gs/packages_and_crates/src/lib.rs
